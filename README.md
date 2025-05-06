@@ -1,4 +1,4 @@
-# Dog-Breed-Identification
+# Dog's Breed Identification
 
 ### The Problem
 Kaggle hosted a [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identificationhttps://www.kaggle.com/c/dog-breed-identification) challenge, where the goal is to build a model that can identify the breed of a dog when given an image. There are 120 breeds, and a relatively small number of training images per class, which makes the problem harder than it orginally seems.
